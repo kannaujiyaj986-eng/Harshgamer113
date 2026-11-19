@@ -1,0 +1,6 @@
+{
+  "name": "Harshgamer113",
+  "description": "Official Harshgamer113 gaming hub with pro sensitivity loadouts, scrims and tournament registrations, creator highlights, and cloud-synced player profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

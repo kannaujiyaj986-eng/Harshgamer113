@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Harshgamer113</string>
+    <string name="nav_arena">Arena</string>
+    <string name="nav_loadouts">Loadouts</string>
+    <string name="nav_scrims">Scrims</string>
+    <string name="nav_squad">Squad</string>
+
+    <string name="creator_handle">Harshgamer113</string>
+    <string name="creator_tagline">Pro Esports Creator • 4-Finger Gyro</string>
+    <string name="creator_uid_label">Creator UID</string>
+    <string name="creator_uid_value">HG113-IND-7749</string>
+    <string name="copy_uid_action">Copy UID</string>
+    <string name="uid_copied_msg">Creator UID copied to clipboard</string>
+    <string name="code_copied_msg">Sensitivity code copied: %1$s</string>
+
+    <string name="hero_live_badge">SEASON 11 • LIVE HUB</string>
+    <string name="featured_scrim_cta">Explore Scrims</string>
+    <string name="featured_loadouts_title">Pro Sensitivity Presets</string>
+    <string name="view_all_action">View All</string>
+    <string name="pro_rig_title">Harshgamer113 Battle Rig</string>
+
+    <string name="loadouts_header_title">Sensitivity &amp; HUD Vault</string>
+    <string name="loadouts_header_subtitle">Tap any code to copy into your game settings</string>
+    <string name="new_loadout_fab">New Loadout</string>
+    <string name="empty_loadouts_title">No Loadouts Match</string>
+    <string name="empty_loadouts_hint">Try switching games or create your own custom sensitivity preset.</string>
+
+    <string name="scrims_header_title">Tournaments &amp; Match Log</string>
+    <string name="tab_scrims">Scrims &amp; Cups</string>
+    <string name="tab_matches">Match Tracker</string>
+    <string name="join_scrim_action">Join Scrim</string>
+    <string name="leave_scrim_action">Cancel Slot</string>
+    <string name="log_match_action">Log Match</string>
+    <string name="empty_matches_title">No Matches Logged Yet</string>
+    <string name="empty_matches_hint">Record your match kills and placement to track your K/D progression.</string>
+
+    <string name="squad_header_title">Squad HQ &amp; Profile</string>
+    <string name="edit_profile_action">Edit Profile</string>
+    <string name="add_note_action">Add Strategy Note</string>
+    <string name="local_storage_badge">Saved Locally on Device</string>
+    <string name="empty_notes_title">No Strategy Notes</string>
+    <string name="empty_notes_hint">Pin drop spots, recoil tips, and squad callouts for your next grind.</string>
+
+    <string name="cd_hero_banner">Harshgamer113 cyber arena hero banner</string>
+    <string name="cd_creator_avatar">Harshgamer113 esports avatar</string>
+    <string name="cd_tournament_banner">Harshgamer113 championship tournament stage</string>
+    <string name="cd_favorite_toggle">Toggle favorite loadout</string>
+    <string name="cd_copy_code">Copy sensitivity code</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="cd_pin_note">Pin or unpin note</string>
+</resources>
